@@ -1,0 +1,15 @@
+{
+  "name": "new-lp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.92.0",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5"
+  }
+}
